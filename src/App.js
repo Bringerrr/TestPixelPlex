@@ -16,7 +16,7 @@ const Header = () => {
         <img
           width="100"
           src="https://image.ibb.co/k7cmVT/logo_w.png"
-          alt="Logo"
+          alt="Logoo"
         />
       </a>
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
